@@ -1,0 +1,26 @@
+User-agent: ahrefsbot
+Disallow: /
+
+User-agent: checkmarknetwork
+Disallow: /
+
+User-agent: *
+Disallow: /Cards-a/
+Disallow: /Cards-b/
+Disallow: /page/
+Disallow: /ar/
+Disallow: /inc/
+Disallow: /symbol/
+Disallow: /EN/ar/
+Disallow: /EN/Cards-a/
+Disallow: /EN/Cards-b/
+Disallow: /recruiters/
+Disallow: /beta45/
+Disallow: /demo45/
+Disallow: /beta45qa/
+Disallow: /demo45qa/
+Disallow: /hiring/
+Disallow: /people/
+
+sitemap: Std1395600.aptech-students.com/Cards/sitemap_index.xml
+sitemap: Std1395600.aptech-students.com/Cards/sitemap_index-ur.xml
